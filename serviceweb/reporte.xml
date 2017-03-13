@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sueldo>
+  <datos seccion="sueldo">
+    <nombre>Foley Day</nombre>
+    <email>foleyday@fanfare.com</email>
+    <posicion>developer</posicion>
+    <salario>$1,191.57</salario>
+    <nombre>Chasity Carver</nombre>
+    <email>chasitycarver@fanfare.com</email>
+    <posicion>developer</posicion>
+    <salario>$1,314.06</salario>
+    <nombre>Greta Mcfadden</nombre>
+    <email>gretamcfadden@fanfare.com</email>
+    <posicion>developer</posicion>
+    <salario>$1,393.47</salario>
+    <nombre>Bradley Kirk</nombre>
+    <email>bradleykirk@fanfare.com</email>
+    <posicion>developer</posicion>
+    <salario>$1,788.16</salario>
+    <nombre>Mckee Summers</nombre>
+    <email>mckeesummers@fanfare.com</email>
+    <posicion>developer</posicion>
+    <salario>$1,282.14</salario>
+    <nombre>Joseph Calhoun</nombre>
+    <email>josephcalhoun@fanfare.com</email>
+    <posicion>developer</posicion>
+    <salario>$1,495.46</salario>
+  </datos>
+</sueldo>
